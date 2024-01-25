@@ -1,0 +1,117 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/Users/benballard/Library/Arduino15/packages/esp32/hardware/esp32/2.0.11/cores/esp32"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/Users/benballard/Library/Arduino15/packages/esp32/hardware/esp32/2.0.11/variants/esp32"
+  },
+  {
+    "Sourcefile": "/Users/benballard/myco-tex/myco-tex-sensors/probeTherm/build/sketch/probeTherm.ino.cpp",
+    "Include": "WiFi.h",
+    "Includepath": "/Users/benballard/Library/Arduino15/packages/esp32/hardware/esp32/2.0.11/libraries/WiFi/src"
+  },
+  {
+    "Sourcefile": "/Users/benballard/myco-tex/myco-tex-sensors/probeTherm/build/sketch/probeTherm.ino.cpp",
+    "Include": "HTTPClient.h",
+    "Includepath": "/Users/benballard/Library/Arduino15/packages/esp32/hardware/esp32/2.0.11/libraries/HTTPClient/src"
+  },
+  {
+    "Sourcefile": "/Users/benballard/myco-tex/myco-tex-sensors/probeTherm/build/sketch/probeTherm.ino.cpp",
+    "Include": "WiFiClientSecure.h",
+    "Includepath": "/Users/benballard/Library/Arduino15/packages/esp32/hardware/esp32/2.0.11/libraries/WiFiClientSecure/src"
+  },
+  {
+    "Sourcefile": "/Users/benballard/myco-tex/myco-tex-sensors/probeTherm/build/sketch/probeTherm.ino.cpp",
+    "Include": "OneWire.h",
+    "Includepath": "/Users/benballard/Documents/Arduino/libraries/OneWire"
+  },
+  {
+    "Sourcefile": "/Users/benballard/myco-tex/myco-tex-sensors/probeTherm/build/sketch/probeTherm.ino.cpp",
+    "Include": "DallasTemperature.h",
+    "Includepath": "/Users/benballard/Documents/Arduino/libraries/DallasTemperature"
+  },
+  {
+    "Sourcefile": "/Users/benballard/myco-tex/myco-tex-sensors/probeTherm/build/sketch/probeTherm.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/benballard/Library/Arduino15/packages/esp32/hardware/esp32/2.0.11/libraries/WiFi/src/WiFi.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/benballard/Library/Arduino15/packages/esp32/hardware/esp32/2.0.11/libraries/WiFi/src/WiFiAP.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/benballard/Library/Arduino15/packages/esp32/hardware/esp32/2.0.11/libraries/WiFi/src/WiFiClient.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/benballard/Library/Arduino15/packages/esp32/hardware/esp32/2.0.11/libraries/WiFi/src/WiFiGeneric.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/benballard/Library/Arduino15/packages/esp32/hardware/esp32/2.0.11/libraries/WiFi/src/WiFiMulti.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/benballard/Library/Arduino15/packages/esp32/hardware/esp32/2.0.11/libraries/WiFi/src/WiFiSTA.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/benballard/Library/Arduino15/packages/esp32/hardware/esp32/2.0.11/libraries/WiFi/src/WiFiScan.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/benballard/Library/Arduino15/packages/esp32/hardware/esp32/2.0.11/libraries/WiFi/src/WiFiServer.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/benballard/Library/Arduino15/packages/esp32/hardware/esp32/2.0.11/libraries/WiFi/src/WiFiUdp.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/benballard/Library/Arduino15/packages/esp32/hardware/esp32/2.0.11/libraries/HTTPClient/src/HTTPClient.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/benballard/Library/Arduino15/packages/esp32/hardware/esp32/2.0.11/libraries/WiFiClientSecure/src/WiFiClientSecure.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/benballard/Library/Arduino15/packages/esp32/hardware/esp32/2.0.11/libraries/WiFiClientSecure/src/esp_crt_bundle.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/benballard/Library/Arduino15/packages/esp32/hardware/esp32/2.0.11/libraries/WiFiClientSecure/src/ssl_client.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/benballard/Documents/Arduino/libraries/OneWire/OneWire.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/benballard/Documents/Arduino/libraries/DallasTemperature/DallasTemperature.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
