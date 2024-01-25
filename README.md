@@ -10,7 +10,7 @@ This site provides:
 
 ## Related Projects/Modules
 
-**myco-tex-sensors** This project. Scripts to effectively recieve and send temps, humitity, co2 and other enviromental variables using python.
+**myco-tex-sensors** This project. Scripts to effectively recieve and send temps, humitity, co2 and other enviromental variables using C++.
 
 **myco-tex-backend** This serves up REST
 endpoints for dashboard application using express, node, & mysql2.
