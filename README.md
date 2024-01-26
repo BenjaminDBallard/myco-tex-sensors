@@ -2,6 +2,7 @@
 
 # MycoTex Sensors
 
+## Summary
 This project holds the scripts for esp32 microcomputers that recieve and send the data from their corosponding sensors for
 [Myco-tex] (url tbd).
 This site provides:
