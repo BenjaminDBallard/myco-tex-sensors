@@ -6,13 +6,14 @@
 #include <DallasTemperature.h>
 
 // WIFI VALUES
-const char *AP_SSID = "wifiname"; //WIFI NAME
-const char *AP_PWD = "wifipass"; // WIFI PASS
-String EDP_URL = "apiurl"; //APIURL
+const char *AP_SSID = ""; //WIFI NAME
+const char *AP_PWD = ""; // WIFI PASS
+String EDP_URL = ""; //APIURL
 
 //DEVICE VALUES
 String controllerId = "1234567890";
 String devicePass = "password";
+int postFrequency = 60000;
 
 //MEASUREMENT VALUES
 float tempC; // temperature in Celsius
@@ -78,7 +79,7 @@ void postDataToServer() {
        
       Serial.println(httpResponseCode);   
       Serial.println(response);
-      delay(1000);
+      delay(postFrequency);
     } else {
       Serial.printf("Error occurred while sending HTTP POST: %s\n", http.errorToString(httpResponseCode).c_str());
     }
