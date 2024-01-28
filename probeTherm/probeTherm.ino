@@ -6,9 +6,9 @@
 #include <DallasTemperature.h>
 
 // WIFI VALUES
-const char *AP_SSID = "Ben and Kelbie"; // CHANGE IT
-const char *AP_PWD = "QueenWilla22"; // CHANGE IT
-String EDP_URL = "http://ptsv3.com/t/esptest/post/json/";
+const char *AP_SSID = "wifiname"; //WIFI NAME
+const char *AP_PWD = "wifipass"; // WIFI PASS
+String EDP_URL = "apiurl"; //APIURL
 
 //DEVICE VALUES
 String controllerId = "1234567890";
